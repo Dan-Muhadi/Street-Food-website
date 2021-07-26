@@ -93,3 +93,9 @@ align-content: 20px;
     border: transparent;
     height:5vh;
 }
+.footer{
+    display: flex;
+}
+.icon{
+    float: left;
+}
