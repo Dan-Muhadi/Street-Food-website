@@ -28,3 +28,28 @@ width: 60px;
     border: transparent;
     height: 15vh;
 }
+.street{
+    color:#6cb840 ;
+    font-size: large;
+}
+.food{
+    color: rgba(250, 167, 14, 0.877);
+    font-size: large;
+}
+.order{
+    background-color:  #6CB840;
+    border-radius: 30px 30px 30px 30px;
+    border: transparent;
+    height: 5vh;
+}
+.eat{
+   color: #EAAB1B;
+}
+.tog{
+    color:#EAAB1B ;
+}
+.menu{
+    display: flex;
+    text-align: center;
+    font-family: Poppins;
+}
