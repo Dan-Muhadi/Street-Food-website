@@ -69,3 +69,27 @@ width: 60px;
 .most{
     color: #6CB840;
 }
+.hot{
+    background-color:#C9ECB5;
+    /* display: flex;
+    text-align: left; */
+}
+.us{
+    color: #94ee60;
+}
+.info{
+    text-align: center;
+    background-color:#fdf1d5 ;
+    padding: 4px 10px 10px 4px;
+    margin: 12px 12px 12px 12px;
+}
+.email{
+padding: left;
+align-content: 20px;
+}
+.tuma{
+    background-color:  #6CB840;
+    border-radius: 30px 30px 30px 30px;
+    border: transparent;
+    height:5vh;
+}
