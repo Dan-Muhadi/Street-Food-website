@@ -53,3 +53,13 @@ width: 60px;
     text-align: center;
     font-family: Poppins;
 }
+.chat{
+    color: #6CB840;
+    font-size: large;
+}
+.posh{
+    display: flex;
+}
+.pearl{
+    display: flex;
+}
