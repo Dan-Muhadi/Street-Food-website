@@ -76,7 +76,7 @@ width: 60px;
 .explore{
     background-color: #c2cabc;
     text-align: center;
-    margin-top: 20px;
+    margin-top: 15px;
 }
 .mon p, .tue p, .wed p, .thu p, .thu p, .fri p .sat p{
     margin-left: 70px;
@@ -89,13 +89,13 @@ width: 60px;
 }
 .mill.mon, .tue, .wed{
     height: 128px;
-    width: 215px;
+    width: 214px;
     margin:  40px;
     border-bottom-right-radius: 50px;
     background-color: white;
     padding: 15px;
-    margin-bottom: -100px;
-    margin-right: -8px;
+    margin-bottom: -98px;
+    margin-right: -7px;
     
 }
 .mill.thu, .fri, .sat{
@@ -111,8 +111,8 @@ width: 60px;
 }
 
 .hot{
-    font-size: medium;
-    margin-bottom: 20px;
+    font-size: large;
+    margin-bottom: 15px;
     background-color: #C9ECB5;
 }
 .la{
@@ -125,8 +125,8 @@ width: 60px;
     float: left; 
     margin-left: -20px;
     position: relative;
-    margin-top: -90px;
-    margin-bottom: -100px;
+    margin-top: -95px;
+    margin-bottom: -300px;
     object-fit: contain; 
 }
 .ali{
@@ -142,12 +142,13 @@ margin-left: 600px;
     margin: 12px 12px 12px 12px;
 }
 .email{
-        border-radius: 20px;
-        padding: 10px;
+        border-radius: 12px;
+        padding: 8px;
         margin: 10px 0;
-        width: 16%;
+        width: 12%;
         border: 1px solid;
         outline: none;
+        height: 10%;
 }
 .tuma{
     background-color:  #6CB840;
@@ -168,7 +169,7 @@ margin-left: 600px;
 }
 .salad{
         position:relative;
-        margin-left: -20px;
+        margin-left: -130px;
         margin-bottom: -58px;
 }  
 .here{
