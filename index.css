@@ -74,7 +74,20 @@ width: 60px;
     margin-bottom: 20px;
     background-color: #C9ECB5;
 }
+.la{
+    padding: 10x 10px 10px 10px;
+    margin-left: 400px;
+    margin: top;
+}
+.bev{
 
+    float: left; 
+    margin-left: -20px;
+    position: relative;
+    margin-top: -90px;
+    margin-bottom: -100px;
+    object-fit: contain; 
+}
 .ali{
 margin-left: 600px;
 }
@@ -110,8 +123,8 @@ align-content: 20px;
 }
 .salad{
         position:relative;
-        margin-left: -350px;
-        margin-bottom: -88px;
+        margin-left: -20px;
+        margin-bottom: -58px;
 }  
 .here{
     border-style: none dashed none none;
