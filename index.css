@@ -47,6 +47,9 @@ width: 60px;
 .tog{
     color:#EAAB1B ;
 }
+.pg{
+    text-align: top;
+}
 .menu{
     display: flex;
     text-align: center;
