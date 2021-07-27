@@ -7,4 +7,4 @@ A sample street-food_website that was created by Dan-Muhadi given to us by our s
 Only Html and Css. Css helped me to design my webpage created in Html
 ## Support and contact
 Phone (+254)758269728
-[Email.dancun.wawire@student.moringaschool.con]
+[Email.dancun.wawire@student.moringaschool.com]
