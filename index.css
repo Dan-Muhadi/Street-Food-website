@@ -70,9 +70,9 @@ width: 60px;
     color: #6CB840;
 }
 .hot{
-    background-color:#C9ECB5;
-    /* display: flex;
-    text-align: left; */
+    font-size: 38px;
+    margin-bottom: 20px;
+    background-color: #C9ECB5;
 }
 .us{
     color: #94ee60;
@@ -98,13 +98,34 @@ align-content: 20px;
 }
 .footer{
     display: flex;
+    justify-content: space-between;
 }
 .icon{
     display: inline;
     float: left;
 }
-/* .salad{
-    display: flex;
+.salad{
+        position:relative;
+        margin-left: -350px;
+        margin-bottom: -88px;
+}  
+.here{
+    border-style: none dashed none none;
+}
+.sema{
     float: right;
-    direction: left;
-}  */
+    /* width: 50px;
+    border-radius: 50px; */
+}
+.pt{
+    font-size: 30px
+}
+.back{
+    float: center;
+    color: white;
+    background-color: lightgreen;
+    border-radius: 15px;
+    height: 30px;
+    /* margin-bottom: -30px; */
+
+}
