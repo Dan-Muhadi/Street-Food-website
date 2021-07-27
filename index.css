@@ -48,7 +48,9 @@ width: 60px;
     color:#EAAB1B ;
 }
 .pg{
-    
+    padding: 10x 10px 10px 10px;
+    margin-left: 400px;
+    margin: top;
 }
 .menu{
     display: flex;
