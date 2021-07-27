@@ -70,9 +70,13 @@ width: 60px;
     color: #6CB840;
 }
 .hot{
-    font-size: 38px;
+    font-size: medium;
     margin-bottom: 20px;
     background-color: #C9ECB5;
+}
+
+.ali{
+margin-left: 600px;
 }
 .us{
     color: #94ee60;
