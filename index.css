@@ -58,6 +58,10 @@ width: 60px;
     border-radius: 13px 13px;
     display: inline-flexbox;
 }
+.feast{
+    text-align: justify;
+    padding-left: 20px;
+}
 .menu{
     display: flex;
     text-align: center;
