@@ -1,5 +1,6 @@
 .Home{
     background-color: #c4d9fb;
+    font-family: poppins
 }
 .mine ul{
     width: 100%;
@@ -47,12 +48,16 @@ width: 60px;
 .tog{
     color:#EAAB1B ;
 }
-/* .pg{
-    /* padding: 10x 10px 10px 10px; */
-    margin-left: 400px;
-    margin: top;
-    padding-top: 0%;
-} */
+.png{
+
+    background-position: right;
+    background-repeat: no-repeat;
+    padding-right: right;
+    background-size: 650px;
+    height: 500px;
+    border-radius: 13px 13px;
+    display: inline-flexbox;
+}
 .menu{
     display: flex;
     text-align: center;
