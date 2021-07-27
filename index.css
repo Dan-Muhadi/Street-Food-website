@@ -57,7 +57,9 @@ width: 60px;
     color: #6CB840;
     font-size: large;
 }
-
+.explore h2{
+    text-align: center;
+}
 .my{
     color: #6CB840;
 }
