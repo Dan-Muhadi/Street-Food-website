@@ -69,6 +69,42 @@ width: 60px;
 .most{
     color: #6CB840;
 }
+.mill{
+    text-align: right;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 80px;
+    padding-top: 10px;
+}
+.image{
+    height: 120px;
+    float: left; 
+    margin-top: 100px;
+}
+.mill.mon, .tue, .wed{
+    height: 128px;
+    width: 215px;
+    margin:  40px;
+    border-bottom-right-radius: 50px;
+    background-color: white;
+    padding: 15px;
+    margin-bottom: -100px;
+    margin-right: -8px;
+    
+}
+.mill.thu, .fri, .sat{
+    height: 128px;
+    width: 215px;
+    margin:  40px;
+    border-bottom-right-radius: 50px;
+    background-color: white;
+    padding: 15px;
+    margin-bottom: -100px;
+    margin-right: -8px;
+    
+}
+
 .hot{
     font-size: medium;
     margin-bottom: 20px;
