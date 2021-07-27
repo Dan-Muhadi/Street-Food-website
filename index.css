@@ -78,6 +78,11 @@ width: 60px;
     text-align: center;
     margin-top: 50px;
 }
+.explo{
+    background-color: #c2cabc;
+    text-align: center;
+    margin-top: 50px;
+}
 .mill .mon ,.tue, .wed, .thu, .fri, .sat{
     height: 128px;
     width: 215px;
