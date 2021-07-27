@@ -70,15 +70,15 @@ width: 60px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    padding: 80px;
-    padding-top: 10px;
+    padding: 70px;
+    padding-top: 12px;
 }
 .explore{
     background-color: #c2cabc;
     text-align: center;
     margin-top: 20px;
 }
-.mon p, .tue p, .wed p, .thu p, .thu p, .fri p{
+.mon p, .tue p, .wed p, .thu p, .thu p, .fri p .sat p{
     margin-left: 70px;
     text-align: center;
 }
