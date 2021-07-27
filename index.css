@@ -76,12 +76,8 @@ width: 60px;
 .explore{
     background-color: #c2cabc;
     text-align: center;
-    margin-top: 50px;
-}
-.explo{
-    background-color: #c2cabc;
-    text-align: center;
-    margin-top: 50px;
+    margin-top: 40px;
+    display: flex;
 }
 .mill .mon ,.tue, .wed, .thu, .fri, .sat{
     height: 128px;
