@@ -57,11 +57,11 @@ width: 60px;
     color: #6CB840;
     font-size: large;
 }
-.posh{
+/* .posh{
     display: flex;
 }
 .pearl{
-    display: flex;
+    display: flex; */
 }
 .my{
     color: #6CB840;
@@ -76,6 +76,15 @@ width: 60px;
     justify-content: space-around;
     padding: 80px;
     padding-top: 10px;
+}
+.explore{
+    background-color: #c2cabc;
+    text-align: center;
+    margin-top: 400px;
+}
+.mon p, .tue p, .wed p, .thu p, .thu p, .fri p{
+    margin-left: 70px;
+    text-align: center;
 }
 .image{
     height: 120px;
