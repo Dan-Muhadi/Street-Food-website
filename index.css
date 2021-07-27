@@ -142,7 +142,12 @@ margin-left: 600px;
     margin: 12px 12px 12px 12px;
 }
 .email{
-
+        border-radius: 20px;
+        padding: 10px;
+        margin: 10px 0;
+        width: 16%;
+        border: 1px solid;
+        outline: none;
 }
 .tuma{
     background-color:  #6CB840;
