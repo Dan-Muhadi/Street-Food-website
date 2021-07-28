@@ -66,6 +66,7 @@ width: 60px;
     display: flex;
     text-align: center;
     font-family: Poppins;
+    box-sizing: content-box;
 }
 .chat{
     color: #6CB840;
