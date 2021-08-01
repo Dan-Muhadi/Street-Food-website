@@ -67,13 +67,18 @@ width: 60px;
     text-align: center;
     font-family: Poppins;
     box-sizing: content-box;
+    
+
+}
+/* .pg{
+    text-align: center; */
 }
 .chat{
     color: #6CB840;
     font-size: large;
 }
 .explore h2{
-    text-align: center;
+    text-align: justify;
 }
 .my{
     color: #6CB840;
