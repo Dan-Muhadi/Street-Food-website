@@ -1,0 +1,202 @@
+.Home{
+    background-color: #c4d9fb;
+    font-family: poppins
+}
+.mine ul{
+    width: 100%;
+    padding: 12px 10px;
+    margin: 50px 0;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+.mine ul a:hover::after{
+width: 60px;
+}
+.mine ul a{
+    text-decoration: none;
+    color: #000;
+}
+.mine ul a::after{
+    content: none;
+    width: 0%;
+    background-color: antiquewhite;
+}
+.mine{
+    border-radius: 30px 30px 30px 30px;
+    border: transparent;
+    height: 15vh;
+}
+.street{
+    color:#6cb840 ;
+    font-size: large;
+}
+.food{
+    color: rgba(250, 167, 14, 0.877);
+    font-size: large;
+}
+.order{
+    background-color:  #6CB840;
+    border-radius: 30px 30px 30px 30px;
+    border: transparent;
+    height: 5vh;
+}
+.eat{
+   color: #EAAB1B;
+}
+.tog{
+    color:#EAAB1B ;
+}
+.png{
+
+    background-position: right;
+    background-repeat: no-repeat;
+    padding-right: right;
+    background-size: 650px;
+    height: 500px;
+    border-radius: 13px 13px;
+    display: inline-flexbox;
+}
+.feast{
+    text-align: justify;
+    padding-left: 20px;
+}
+.menu{
+    display: flex;
+    text-align: center;
+    font-family: Poppins;
+    box-sizing: content-box;
+    
+
+}
+/* .pg{
+    text-align: center; */
+
+
+.chat{
+    color: #6CB840;
+    font-size: large;
+}
+.explore h2{
+    text-align: justify;
+}
+.my{
+    color: #6CB840;
+}
+.most{
+    color: #6CB840;
+}
+.mill{
+    text-align: right;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 70px;
+    padding-top: 5px;
+}
+.explore{
+    background-color: #c2cabc;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    display: flex;
+}
+.mill .mon ,.tue, .wed, .thu, .fri, .sat{
+    height: 128px;
+    width: 215px;
+    margin:  40px;
+    border-bottom-right-radius: 50px;
+    background-color: white;
+    padding: 15px;
+    margin-bottom: -100px;
+    margin-right: -8px;
+    
+}
+.image{
+    float: left;
+margin-top: 75.5px;
+}
+
+.hot{
+    font-size: large;
+    margin-bottom: 15px;
+    background-color: #C9ECB5;
+}
+.la{
+    padding: 10x 10px 10px 10px;
+    margin-left: 400px;
+    margin: top;
+}
+.bev{
+
+    float: left; 
+    margin-left: -20px;
+    position: relative;
+    margin-top: -95px;
+    margin-bottom: -300px;
+    object-fit: contain; 
+}
+.ali{
+margin-left: 600px;
+}
+.us{
+    color: #94ee60;
+}
+.info{
+    text-align: center;
+    background-color:#fdf1d5 ;
+    padding: 4px 10px 10px 4px;
+    margin: 12px 12px 12px 12px;
+}
+.email{
+        border-radius: 12px;
+        padding: 8px;
+        margin: 10px 0;
+        width: 12%;
+        border: 1px solid;
+        outline: none;
+        height: 10%;
+}
+.tuma{
+    background-color:  #6CB840;
+    border-radius: 30px 30px 30px 30px;
+    border: transparent;
+    height:5vh;
+    transform: scale(1);
+    font-size: 20px;
+    white-space: inherit;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
+.icon{
+    display: inline;
+    float: left;
+}
+.salad{
+        position:relative;
+        margin-left: -130px;
+        margin-bottom: -58px;
+}  
+.here{
+    border-style: none dashed none none;
+}
+.sema{
+    float: right;
+    /* width: 50px;
+    border-radius: 50px; */
+}
+.pt{
+    font-size: 30px
+}
+.back{
+    float: center;
+    color: white;
+    background-color: lightgreen;
+    border-radius: 15px;
+    height: 30px;
+    /* margin-bottom: -30px; */
+
+}
